@@ -1,0 +1,3 @@
+CandidateID,CandidateName,DateOfBirth,Gender,Category,10th_score,12th_score,Undergraduate_Score,Postgraduate_Score,Skills,Certifications,Stream,UG_Course,PG_Course,similarity_score,final_score
+C054,Sulekha Dave,05-02-2003,Male,ST,72.94,87.45,8.23,6.83,"Java, SQL, Debugging, Agile","AWS Certified Solutions Architect, Tally",Science (CS+Math),B.Sc. Data Science,M.Sc. Computer Science,0.09269789668627057,1.2364778966862706
+C026,Awantika Banerjee,04-10-2001,Male,GEN/UR,35.24,81.94,5.76,7.15,"Python, Java, C++, AWS, Azure, GCP, Debugging, Mentoring, Agile, Communication,Data Structures and algorithms,  Microservices","AWS Certified Solutions Architect, Azure",Science (CS+Math),B.Tech CSE,M.Tech CSE,0.2916722353168035,1.1020322353168035

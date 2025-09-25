@@ -1,0 +1,11 @@
+CandidateID,CandidateName,DateOfBirth,Gender,Category,10th_score,12th_score,Undergraduate_Score,Postgraduate_Score,Skills,Certifications,Stream,UG_Course,PG_Course
+C001,Shrikant Chandra,06-01-2003,Female,ST,44.37,,,,"Open Source, Leadership, Teamwork, Spanish","Certificate in Public Health, Nursing Assistant Certificate",,,
+C038,Drupad Ketkar,07-05-2004,Male,GEN/UR,52.81,,,,"Azure, Java, Mentoring, Open Source, Leadership",,,,
+C111,Kedar Chopra,26-04-2002,Female,SC,67.99,62.83,,,"Python, Teamwork, MS Excel, Critical Thinking, Debugging, Java",Basic Life Support (BLS),Arts (Commerce),,
+C022,Govardhan Keshari,21-05-2003,Male,GEN/UR,57.63,43.63,,,"Spanish, C++, Azure, Data Analysis, Communication, Critical Thinking, Leadership, ",Nursing Assistant Certificate,Science (Bio+Math),,
+C789,Sanskriti Vyas,21-06-2003,Male,SC,38.84,36.2,5.53,6.31,"GST Practitioner Certificate, Accounting, Business Communication, Excel",Diploma in Nutrition & Dietetics,Arts (Commerce),BFIA,M.Com
+C999,Rampyare Govil,22-08-2004,Male,OBC,88.14,51.07,8.36,4.71,"Tally ERP, Accounting, Finance, GST Practitioner Certificate, MS Excel, Excel, Business Communication",Basic Life Support (BLS),Arts (Commerce),BBI,MBA
+C931,Lata Dutt,29-02-2004,Female,ST,42.78,97.59,9.33,6.98,"Agile, Data Analysis, MS Excel, Python, Communication","Nursing Assistant Certificate, Excel Advanced, Medical Lab Technician Certificate",Science (CS+Math),BCA,M.Sc. Computer Science
+C004,Khushboo Priyadarshini,19-11-2003,Male,ST,32.17,47.75,5.31,8.11,"Debugging, Agile, Data Analysis, Communication, Leadership, MS Excel, Python",GST Practitioner Certificate,Science (CS+Math),BCA,M.Sc. Data Science
+C054,Sulekha Dave,05-02-2003,Male,ST,72.94,87.45,8.23,6.83,"Java, SQL, Debugging, Agile","AWS Certified Solutions Architect, Tally",Science (CS+Math),B.Sc. Data Science,M.Sc. Computer Science
+C026,Awantika Banerjee,04-10-2001,Male,GEN/UR,35.24,81.94,5.76,7.15,"Python, Java, C++, AWS, Azure, GCP, Debugging, Mentoring, Agile, Communication,Data Structures and algorithms,  Microservices","AWS Certified Solutions Architect, Azure",Science (CS+Math),B.Tech CSE,M.Tech CSE
